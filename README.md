@@ -28,8 +28,7 @@ Add image
  
  ## Lab Context
 
-In this hands-on lab, you will extract (historical) Sales Orders from SAP system and historical payments from a non-SAP system, in this case Cosmos DB using Azure Synapse Analytics pipelines. You will also extract the telemetry data sent by the simulated IoT Hub device to Azure IoT Hub using Azure Synapse Analytics pipelines.
-You will visualize the extracted Sales Orders, IoT Hub device and invoice data with Power BI. 
+In this hands-on lab, you will extract (historical) Sales Orders from SAP system and historical payments from a non-SAP system, in this case Cosmos DB and telemetry data sent by the simulated IoT Hub device to Azure IoT Hub using Azure Synapse Analytics pipelines. You will visualize the extracted Sales Orders, IoT Hub device and invoice data with Power BI. 
 
 You will unleash the power of data using Azure Machine Learning to train a model to predict incoming cash flow. You will learn to implement dashboards using Power BI and Power Automate. Finally, you will add the ability to share the Power BI reports to users in Teams channel based on the Approver's response status (Approve/Reject).
 
